@@ -1,0 +1,23 @@
+{
+  "name": "spec",
+  "main": "spec.js",
+  "homepage": "https://github.com/CrocoNiall/nQuery",
+  "authors": [
+    "Niall Wallace <nj.wallace@outlook.com>"
+  ],
+  "description": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "chai": "^4.0.2",
+    "chai-spies": "^0.7.1"
+  }
+}
